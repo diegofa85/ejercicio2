@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.StyledTextComponent {
+  font-family: "Inter", sans-serif;
+  padding-left: .5rem;
+  background-color: #369;
+  color: #fff;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
